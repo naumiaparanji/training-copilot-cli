@@ -1,0 +1,11 @@
+{
+  "name": "training-copilot-cli",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
